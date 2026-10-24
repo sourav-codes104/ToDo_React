@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@layer utlilities{
+.font {
+  font-family: Helvetica, sans-serif;
+}
+}
