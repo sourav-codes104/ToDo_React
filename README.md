@@ -1,6 +1,12 @@
-# React + Vite
+# To-Do App
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+## Live app
+
+Try the deployed app: [todo-xi-rosy-74.vercel.app](https://todo-xi-rosy-74.vercel.app/)
+
+This app uses Supabase for email/password authentication and private task storage.
 
 Currently, two official plugins are available:
 
